@@ -7,4 +7,3 @@ build/
 *.elf
 *.bin
 *.o
-*.cmake
